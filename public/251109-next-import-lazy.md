@@ -8,7 +8,7 @@ updated_at: ''
 id: null
 organization_url_name: null
 slide: false
-ignorePublish: false
+ignorePublish: true
 ---
 
 Next.jsで一部のコンポーネントについてSSRを無効化したい場合、next/dynamic が使えます。
