@@ -19,6 +19,10 @@ Next.jsで一部のコンポーネントについてSSRを無効化したい場�
 
 しかし、next/dynamicをそのまま使えないケースに2つ遭遇したので、その際に個人的に採用した代案を以下に紹介します。
 
+:::note warn
+この記事の内容は Next.js 15.4, `@opennextjs/cloudflare` 1.7.1 を使っていたときのものです。
+:::
+
 # Reactコンポーネントでないものをクライアントのみでのimportにしたい場合
 
 [typescript](https://www.npmjs.com/package/typescript) はブラウザでimportすることでTS Playgroundのようなものを作るのに使えますが、とても3MBには収まりませんでした。
