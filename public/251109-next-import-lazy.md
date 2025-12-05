@@ -1,11 +1,11 @@
 ---
-title: "Next.jsで特定のモジュールをサーバーサイドでimportさせない方法"
+title: Next.jsで特定のモジュールをサーバーサイドでimportさせない方法
 tags:
-  - Next.js
   - React
+  - Next.js
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-05T17:20:58+09:00'
+id: b68ba4fefc5b17911da7
 organization_url_name: null
 slide: false
 ignorePublish: false
