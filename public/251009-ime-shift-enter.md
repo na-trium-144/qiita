@@ -5,8 +5,8 @@ tags:
   - AutoHotkey
   - Mozc
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-05T17:20:06+09:00'
+id: d86c58c71dba39c2d993
 organization_url_name: null
 slide: false
 ignorePublish: false
