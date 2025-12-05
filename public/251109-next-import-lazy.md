@@ -1,7 +1,8 @@
 ---
 title: "Next.jsで特定のモジュールをサーバーサイドでimportさせない方法"
 tags:
-  - ''
+  - Next.js
+  - React
 private: false
 updated_at: ''
 id: null

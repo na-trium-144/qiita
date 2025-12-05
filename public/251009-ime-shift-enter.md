@@ -1,7 +1,9 @@
 ---
 title: Shift+EnterにIMEの変換確定を割り当てる (Windows & Linux)
 tags:
-  - ''
+  - Windows
+  - AutoHotkey
+  - Mozc
 private: false
 updated_at: ''
 id: null
