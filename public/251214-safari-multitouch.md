@@ -1,13 +1,13 @@
 ---
 title: iOSのSafariにおいて複数の指でtouchstartとtouchendが同時に起こるときイベントが発火しない件(と、その対策)
 tags:
-  - 'iOS'
-  - 'Safari'
-  - 'WebKit'
-  - 'JavaScript'
+  - JavaScript
+  - iOS
+  - Safari
+  - WebKit
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-14T01:48:56+09:00'
+id: bc816d59ca303d2cabc9
 organization_url_name: null
 slide: false
 ignorePublish: false
