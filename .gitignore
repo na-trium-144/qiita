@@ -1,2 +1,5 @@
 .remote
 node_modules
+public/*
+!public/2*-*
+!public/.gitkeep
