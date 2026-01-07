@@ -1,7 +1,10 @@
 ---
 title: Node.jsでウェブフォントからhintingを削除し、Windowsで生じるジャギーを解消
 tags:
-  - ''
+  - 'Node.js'
+  - 'font'
+  - 'webfont'
+  - 'CSS'
 private: false
 updated_at: ''
 id: null
