@@ -16,7 +16,7 @@ ignorePublish: false
 ## バグの概要
 
 [Appleのフォーラムに2022年に投稿されている](https://developer.apple.com/forums/thread/711928)現象です。
-そのフォーラムの投稿に再現用のCodePenのリンクもあり、現在もiOS18.5で動作・再現しました。
+そのフォーラムの投稿に再現用のCodePenのリンクもあり、現在もiOS18.5、26.2で動作・再現しました。
 
 [https://codepen.io/arisaito/pen/WNzymjv](https://codepen.io/arisaito/pen/WNzymjv)
 
