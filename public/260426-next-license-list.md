@@ -1,13 +1,13 @@
 ---
 title: Next.jsで利用しているパッケージのライセンス一覧を自動生成して表示する「next-license-list」
 tags:
-  - Next.js
+  - license
   - webpack
   - OSS
-  - license
+  - Next.js
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-04-26T20:11:56+09:00'
+id: eb84b08a9bfe8affb09e
 organization_url_name: null
 slide: false
 ignorePublish: false
