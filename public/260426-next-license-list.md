@@ -6,7 +6,7 @@ tags:
   - OSS
   - Next.js
 private: false
-updated_at: '2026-04-26T20:11:56+09:00'
+updated_at: '2026-04-26T20:14:23+09:00'
 id: eb84b08a9bfe8affb09e
 organization_url_name: null
 slide: false
