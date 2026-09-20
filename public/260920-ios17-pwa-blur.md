@@ -7,11 +7,13 @@ tags:
   - CSS
   - WebKit
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-09-20T21:23:29+09:00'
+id: 0add98a80ca2391e3f17
 organization_url_name: null
 slide: false
 ignorePublish: false
+posting_campaign_uuid: null
+agreed_posting_campaign_term: false
 ---
 
 iOS 27 以降、PWA（ホーム画面に追加したWebアプリ）において画面上端に意図しないプログレッシブブラー（ぼかし効果）がオーバーレイ表示されてしまうという現象が発生します。
