@@ -22,7 +22,7 @@ iOS 27 以降、PWA（ホーム画面に追加したWebアプリ）において�
 <img width="300" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4275950/780c50d1-94fb-46e2-b17e-8f7376a3c643.png">
 
 :::note
-ちなみに画像は筆者が開発しているブラウザで動く音楽ゲーム [Falling Nikochan](https://nikochan.utcode.net/) です。
+ちなみに画像は筆者が開発しているブラウザで動く音楽ゲーム [Falling Nikochan](https://nikochan.utcode.net/) (GitHub: [na-trium-144/falling-nikochan](https://github.com/na-trium-144/falling-nikochan)) です。
 :::
 
 
