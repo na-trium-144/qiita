@@ -16,7 +16,12 @@ ignorePublish: false
 ## バグの概要
 
 [Appleのフォーラムに2022年に投稿されている](https://developer.apple.com/forums/thread/711928)現象です。
-そのフォーラムの投稿に再現用のCodePenのリンクもあり、現在もiOS18.5、26.2で動作・再現しました。
+そのフォーラムの投稿に再現用のCodePenのリンクもあり、現在もiOS18.5、26.2、26.7で動作・再現しました。
+
+:::note info
+追記: iOS27.0で修正されたようです！ 🎉
+(リリースノートには見当たらないですが...)
+:::
 
 [https://codepen.io/arisaito/pen/WNzymjv](https://codepen.io/arisaito/pen/WNzymjv)
 
@@ -37,10 +42,6 @@ Androidでは起こりません。
     * 例えば右手`touchend`(通常)と左手`touchstart`(発火しない)が同時に起こったあと、その左手の`touchend`(発火しない)と同時に右手をタッチした場合その`touchstart`もまた発火しない...
 
 ということがわかりました。
-
-:::note info
-もし特定のiOSバージョンで修正されているなど続報を知っている方がいらっしゃったら教えていただけると助かります！
-:::
 
 ## workaround?
 
