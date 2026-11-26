@@ -5,11 +5,13 @@ tags:
   - RaspberryPi
   - USBboot
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-11-26T20:58:18+09:00'
+id: 577bcbb5d6a78094913e
 organization_url_name: null
 slide: false
 ignorePublish: false
+posting_campaign_uuid: null
+agreed_posting_campaign_term: false
 ---
 # 1本のUSBで Ventoy と Raspberry Pi 起動ディスクを両立する
 
